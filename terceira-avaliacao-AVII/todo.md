@@ -1,0 +1,2 @@
+- [] Realizar o deploy de uma aplicacao Web implementada na Oracle Cloud (OCI) usando o codigo 
+- ***Pode ser o codigo implementado na primeira avaliacao***
